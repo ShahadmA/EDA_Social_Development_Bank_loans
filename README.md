@@ -21,7 +21,7 @@ o	Data size: 14 columns , 13914 rows.
 
 o	Data type: text , float , integer.
 
-o	Data source: open data for KSA .
+o	Data source: The original source for this data is <a href="https://data.gov.sa/Data/ar/dataset/social-development-bank-loans-for-2020">here</a> ,and i have taken from open source for KSA .
 
 
 
