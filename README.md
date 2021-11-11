@@ -11,15 +11,15 @@ o	What are the most months in which the financing has been disbursed to clients?
 
 •	Data Description: dataset is about Social Development Bank loan data for the year 2020 , the dataset contains:
 	
-Columns: ( Client ID,  Bank branch , Financing type , Social financing products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
+o	Columns: ( Client ID,  Bank branch , Financing type , Social financing products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
 
-Rows: 13914 rows.
+o	Rows: 13914 rows.
 
-Data size: 14 columns , 13914 rows.
+o	Data size: 14 columns , 13914 rows.
 
-Data source: open data for KSA .
+o	Data type: text , float , integer.
 
-Data type: text , float , integer.
+o	Data source: open data for KSA .
 
 
 
