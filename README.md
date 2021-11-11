@@ -9,7 +9,9 @@ o	What are the most months in which the financing has been disbursed to clients?
 
 
 
-•	Data Description: dataset is about Social Development Bank loan data for the year 2020 , the dataset contains:
+•	Data Description: 
+
+dataset is about Social Development Bank loan data for the year 2020 , the dataset contains:
 	
 o	Columns: ( Client ID,  Bank branch , Financing type , Social financing products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
 
