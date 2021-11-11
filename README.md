@@ -1,7 +1,9 @@
 •	Question/Problem statement:
 
 o	What is the most type of financing and Social funding products requested by females\males?
+
 o	Who of the genders is more in demand for funding?
+
 o	What are the most months in which the financing has been disbursed to clients?
 
 
@@ -15,7 +17,7 @@ Rows: 13914 rows.
 
 Data size: 14 columns , 13914 rows.
 
-Data source: data for KSA here .
+Data source: data for KSA .
 
 Data type: text , float , integer.
 
