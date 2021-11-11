@@ -25,6 +25,7 @@ Data type: text , float , integer.
 
 
 •	Tools:
+
 o	Programs:  Jupyter.
 
 o	Libraries:  Pandas - Numpy – Matplotlip .
