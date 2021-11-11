@@ -17,7 +17,7 @@ Rows: 13914 rows.
 
 Data size: 14 columns , 13914 rows.
 
-Data source: data for KSA .
+Data source: open data for KSA here .
 
 Data type: text , float , integer.
 
