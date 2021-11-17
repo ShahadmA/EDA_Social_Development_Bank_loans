@@ -1,10 +1,10 @@
 ## Question/Problem statement:
 
-*What are the most type of funding requested by clients?
+* What are the most type of funding requested by clients?
 
-*Who of the genders is more in demand for funding?
+* Who of the genders is more in demand for funding?
 
-*What are the most months in which the funding has been disbursed to clients?
+* What are the most months in which the funding has been disbursed to clients?
 
 
 
@@ -13,29 +13,29 @@
 
 A dataset is about Social Development Bank loan data for the year 2020, the dataset contains:
 	
-*Columns: ( Client ID,  Bank branch , Funding type , Social funding products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
+* Columns: ( Client ID,  Bank branch , Funding type , Social funding products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
 
-*Rows: 13914 rows.
+* Rows: 13914 rows.
 
-*Data size: 14 columns , 13914 rows.
+* Data size: 14 columns , 13914 rows.
 
-*Data type: text , float , integer.
+* Data type: text , float , integer.
 
-*Data source: The original source for this data is <a href="https://data.gov.sa/Data/ar/dataset/social-development-bank-loans-for-2020">here</a> ,and i have taken from open source for KSA .
+* Data source: The original source for this data is <a href="https://data.gov.sa/Data/ar/dataset/social-development-bank-loans-for-2020">here</a> ,and i have taken from open source for KSA .
 
 
 
 
 ## Tools:
 
-*Programs:  Jupyter.
+* Programs:  Jupyter.
 
-*Libraries:  Pandas - Matplotlip - Seaborn  .
+* Libraries:  Pandas - Matplotlip - Seaborn  .
 
-*Functions: Groupby .
+* Functions: Groupby .
 
 
-*Plots: BarChart plot , PieChart plot.
+* Plots: BarChart plot , PieChart plot.
 
 
 
