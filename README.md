@@ -1,43 +1,43 @@
-•	Question/Problem statement:
+## Question/Problem statement:
 
-o	What is the most type of financing and Social funding products requested by females\males?
+*What are the most type of funding requested by clients?
 
-o	Who of the genders is more in demand for funding?
+*Who of the genders is more in demand for funding?
 
-o	What are the most months in which the financing has been disbursed to clients?
-
-
+*What are the most months in which the funding has been disbursed to clients?
 
 
-•	Data Description: 
 
-dataset is about Social Development Bank loan data for the year 2020 , the dataset contains:
+
+## Data Description: 
+
+A dataset is about Social Development Bank loan data for the year 2020, the dataset contains:
 	
-o	Columns: ( Client ID,  Bank branch , Financing type , Social financing products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
+*Columns: ( Client ID,  Bank branch , Funding type , Social funding products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
 
-o	Rows: 13914 rows.
+*Rows: 13914 rows.
 
-o	Data size: 14 columns , 13914 rows.
+*Data size: 14 columns , 13914 rows.
 
-o	Data type: text , float , integer.
+*Data type: text , float , integer.
 
-o	Data source: The original source for this data is <a href="https://data.gov.sa/Data/ar/dataset/social-development-bank-loans-for-2020">here</a> ,and i have taken from open source for KSA .
-
-
-
-
-•	Tools:
-
-o	Programs:  Jupyter.
-
-o	Libraries:  Pandas - Numpy – Matplotlip .
-
-o	Functions: Aggregate function , Groupby .
-
-
-o	Plots: Bar chart , Pie chart.
+*Data source: The original source for this data is <a href="https://data.gov.sa/Data/ar/dataset/social-development-bank-loans-for-2020">here</a> ,and i have taken from open source for KSA .
 
 
 
-•	MVP Goal:
-The goal of this project is understand customers behavior during 2020.
+
+## Tools:
+
+*Programs:  Jupyter.
+
+*Libraries:  Pandas - Matplotlip - Seaborn  .
+
+*Functions: Groupby .
+
+
+*Plots: BarChart plot , PieChart plot.
+
+
+
+## MVP Goal:
+The goal of this project is to understand clients' behavior during 2020.
