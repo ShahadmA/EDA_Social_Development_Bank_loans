@@ -1,4 +1,6 @@
-![Bank](https://user-images.githubusercontent.com/93095814/142260896-f26fe3f9-18c6-4f3d-8fd1-4a42f0e782d1.png)
+
+<img src="https://user-images.githubusercontent.com/93095814/142260896-f26fe3f9-18c6-4f3d-8fd1-4a42f0e782d1.png" alt="Bank" style="width:200px;height:200px;">
+
 
 ## Question/Problem statement:
 
