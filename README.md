@@ -1,3 +1,5 @@
+![Bank](https://user-images.githubusercontent.com/93095814/142260896-f26fe3f9-18c6-4f3d-8fd1-4a42f0e782d1.png)
+
 ## Question/Problem statement:
 
 * What are the most type of funding requested by clients?
