@@ -23,7 +23,7 @@ A dataset is about Social Development Bank loan data for the year 2020, the data
 
 * Data size: 15 columns , 13914 rows.
 
-* Data type: text , float , integer.
+* Data type: text , integer.
 
 * Data source: The original source for this data is <a href="https://data.gov.sa/Data/ar/dataset/social-development-bank-loans-for-2020">here</a> ,and i have taken from open source for KSA .
 
