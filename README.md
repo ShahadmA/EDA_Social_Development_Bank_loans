@@ -17,11 +17,11 @@
 
 A dataset is about Social Development Bank loan data for the year 2020, the dataset contains:
 	
-* Columns: ( Client ID,  Bank branch , Funding type , Social funding products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs , Number of family , Salary).
+* Columns: ( Client ID,  Bank branch , Funding type , Social funding products, Customer sector , Funding value , The value of installment , Funding disbursement date , Gender , age , Marital status , Special needs ,Saving loan , Number of family , Salary).
 
 * Rows: 13914 rows.
 
-* Data size: 14 columns , 13914 rows.
+* Data size: 15 columns , 13914 rows.
 
 * Data type: text , float , integer.
 
@@ -34,12 +34,12 @@ A dataset is about Social Development Bank loan data for the year 2020, the data
 
 * Programs:  Jupyter.
 
-* Libraries:  Pandas - Matplotlip - Seaborn  .
+* Libraries:  Pandas - Plotly  .
 
 * Functions: Groupby .
 
 
-* Plots: BarChart plot , PieChart plot.
+* Plots: BarChart plot , PieChart plot, Scatter Plot.
 
 
 
