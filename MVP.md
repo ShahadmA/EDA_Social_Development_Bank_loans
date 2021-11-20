@@ -4,7 +4,8 @@
 ### The goal of this project is understand clients behavior during 2020 .
 
 
-![Age ranges for the total number of clients there are loan disbursed in 2020](https://user-images.githubusercontent.com/93095814/142252153-9cd8314a-41dc-4cdc-a1f4-1c765979f4d0.png)
+
+![Funding type](https://user-images.githubusercontent.com/93095814/142738160-784f7934-02a6-4714-96b9-829e120c60e6.png)
 
 
 
