@@ -36,7 +36,7 @@ A dataset is about Social Development Bank loan data for the year 2020, the data
 
 * Libraries:  Pandas - Plotly  .
 
-* Functions: Groupby .
+* Functions: Groupby - Merge .
 
 
 * Plots: BarChart plot , PieChart plot, Scatter Plot.
